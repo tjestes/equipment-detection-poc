@@ -1,0 +1,3 @@
+model-training-repo/2-train-yolo/training-files
+model-training-repo/1-convert-weights/darknet53.weights
+model-training-repo/1-convert-weights/output_yolo_weights.h5

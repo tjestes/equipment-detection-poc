@@ -1,0 +1,1 @@
+docker container run -v ./:/credera -w /credera -it jds-tensorflow-conda-cpu:latest /bin/bash

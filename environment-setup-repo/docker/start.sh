@@ -1,0 +1,1 @@
+docker container run -v /home/credera-team:/credera -w /credera --gpus all -it jds-tensorflow-conda-gpu:latest /bin/bash
